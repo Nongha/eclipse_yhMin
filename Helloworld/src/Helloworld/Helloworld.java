@@ -5,7 +5,8 @@ public class Helloworld {
 		System.out.println("Hello World");
 		System.out.println("Min Yunhong");
 		System.out.println("20191105");
-		}
+		System.out.println("Japanese Education");
+	}
 	
 
 }
